@@ -1,0 +1,22 @@
+{
+  "name": "vue-d3-dynamic",
+  "description": "Using D3 in a component to build a chart based on dynamic prop data.",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "Travis Horn <travis@travishorn.com> (https://travishorn.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^7.4.3",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.1.0",
+    "@vitejs/plugin-vue": "^2.3.0",
+    "vite": "^2.9.0"
+  }
+}
