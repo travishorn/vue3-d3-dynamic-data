@@ -2,6 +2,38 @@
 
 Using D3 in a component to build a chart based on dynamic prop data.
 
+## Installation
+
+Clone this repository
+
+```bash
+git clone https://github.com/travishorn/vue3-d3-dynamic-data
+```
+
+Change into the new directory
+
+```bash
+cd vue3-d3-dynamic-data
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+## Development
+
+Start the development server
+
+```bash
+npm run dev
+```
+
+Open your web browser to http://localhost:3000
+
+Modify code in `./src`. Changes are hot-reloaded in the browser.
+
 ## License
 
 The MIT License (MIT)

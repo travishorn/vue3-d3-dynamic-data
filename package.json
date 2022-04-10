@@ -1,5 +1,5 @@
 {
-  "name": "vue-d3-dynamic",
+  "name": "vue3-d3-dynamic-data",
   "description": "Using D3 in a component to build a chart based on dynamic prop data.",
   "private": true,
   "version": "0.0.0",
